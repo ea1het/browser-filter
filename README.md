@@ -1,2 +1,2 @@
-# browser-filter
-Browsers filters (Opera, Firefox, Chrome, Safari)
+# Browser Filter(s)
+Browsers supported/configured: Opera, Firefox, Chrome, Safari
